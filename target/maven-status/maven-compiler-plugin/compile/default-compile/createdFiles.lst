@@ -1,0 +1,5 @@
+com\baeldung\validation\UserController.class
+com\baeldung\validation\AppConfig.class
+com\baeldung\validation\LogbackPing.class
+com\baeldung\validation\UserDTO.class
+com\baeldung\validation\SpringBootCustomValidationApplication.class

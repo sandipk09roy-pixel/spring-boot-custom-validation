@@ -1,3 +1,4 @@
+// Minor change to trigger PR comparison
 package com.baeldung.validation;
 
 import org.springframework.http.ResponseEntity;
